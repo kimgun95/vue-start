@@ -13,6 +13,7 @@ export default {
   components: {
     // '컴포넌트이름': 컴포넌트내용
     // 'AppHeader': AppHeader
+    // AppHeader: AppHeader
     AppHeader
   },
   data() {

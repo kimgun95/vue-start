@@ -10,7 +10,7 @@
             changeTitle() {
                 this.$emit('change');
             }
-        }
+        },
     }
 </script>
 
